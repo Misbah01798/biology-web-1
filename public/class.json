@@ -1,0 +1,68 @@
+[
+    {
+      "id": "1",
+      "picture": "https://i.ibb.co/Kxsjjv9/dna.png",
+      "title": "Structure of tRNA",
+      "instructor": "Mr. Misbah",
+      "position": "Teacher",
+      "description": "The DNA is transcribed into mRNA on the basis of their complementarity. Translation is the process of conversion of nucleic acid information into amino acids. There is no complementarity between amino acids and mRNA. Hence, translation is not controlled by complementarity but by the genetic code. Since amino acids cannot read this genetic code, they are dependent on an adapter molecule. This adapter molecule is called tRNA (transfer RNA).",
+      "t_img": "https://i.ibb.co/wpqbNyV/IMG-20201004-221932.jpg",
+      "duration" : 4,
+      "test" :5
+    },
+    {
+      "id": "2",
+      "picture": "https://i.ibb.co/Qv7SFkZ/Photosynthesis1.jpg",
+      "title": "Photosynthesis",
+      "instructor": "Mr Jams",
+      "position": "Teacher",
+      "description": "Photosynthesis definition states that the process exclusively takes place in the chloroplasts through photosynthetic pigments such as chlorophyll a, chlorophyll b, carotene and xanthophyll. All green plants and a few other autotrophic organisms utilize photosynthesis to synthesize nutrients by using carbon dioxide, water and sunlight. The by-product of the photosynthesis process is oxygen.Let us have a detailed look at the process, reaction and importance of photosynthesis.",
+      "t_img": "https://i.ibb.co/9rWfQBn/pro.jpg",
+      "duration" : 4,
+      "test" :5
+    },
+    {
+      "id": "3",
+      "picture": "https://i.ibb.co/P5VTy82/Human-Brain-1.png",
+      "title": "Human Brain",
+      "instructor": "Dr. Ahamad",
+      "position": "Doctor",
+      "description": "On average, an adult brain weighs between 1.0 kg – 1.5 kg.  It is mainly composed of neurons – the fundamental unit of the brain and nervous system. Recent estimates have suggested that the brain contains anywhere between 86 billion to 100 billion neurons.The brain, along with the spinal cord, constitutes the central nervous system. It is responsible for thoughts, interpretation and origin of control for body movements.",
+      "t_img": "https://i.ibb.co/xj1Ywmm/do3.jpg",
+      "duration" : 4,
+      "test" :5
+    },
+    {
+      "id": "4",
+      "picture": "https://i.ibb.co/X7Ddt5X/Cardiac-Cycle.png",
+      "title": "Cardiac Cycle",
+      "instructor": "Dr. Sra",
+      "position": "Doctor",
+      "description": "The cardiac cycle attributes to a comprehensive heartbeat from its production to the commencement of the next beat. It comprises diastole, the systole, and the intervening pause. The occurrence of a cardiac cycle is illustrated by a heart rate, which is naturally indicated as beats per minute. A healthy human heart beats 72 times per minute which states that there are 72 cardiac cycles per minute. The cardiac cycle involves a complete contraction and relaxation of both the atria and ventricles and the cycle last approximately 0.8 seconds.",
+      "t_img": "https://i.ibb.co/Pg7FFww/doc2.jpg",
+      "duration" : 4,
+      "test" :5
+    },
+    {
+      "id": "5",
+      "picture": "https://i.ibb.co/zXT6KfV/Difference-between-Mitosis-and-Meiosis.png",
+      "title": "Difference Between Mitosis And Meiosis",
+      "instructor": "Mr. Ajmal",
+      "position": "Professor",
+      "description": "In single-celled organisms, cell reproduction gives rise to the next generation. In multicellular organisms, cell division occurs not just to produce a whole new organism but for growth and replacement of worn-out cells within the organisms.",
+      "t_img": "https://i.ibb.co/GtWt86D/po3.jpg",
+      "duration" : 4,
+      "test" :5
+    },
+    {
+      "id": "6",
+      "picture": "https://i.ibb.co/WHdfCWd/TYPES-OF-TEETH-IN-HUMANS.png",
+      "title": "Types of Teeth",
+      "instructor": "Mr. Monir",
+      "position": "Teacher",
+      "description": "Teeth are one of the strongest parts of the human body. It is mainly composed of proteins (collagen) and minerals (calcium). Apart from the digestion, teeth also play an important role in our speech. An adult will have 32 teeth, including the Wisdom teeth. Molars are the first permanent teeth to develop in, and most of the adults will have their complete set of permanent teeth in place by the age of 21.",
+      "t_img": "https://i.ibb.co/wpqbNyV/IMG-20201004-221932.jpg",
+      "duration" : 4,
+      "test" :5
+    }
+  ]
